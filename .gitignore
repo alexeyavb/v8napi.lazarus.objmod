@@ -1,0 +1,8 @@
+backup/
+lib/
+*.dbg
+*.dll
+*.exe
+*.so
+*.lps
+*.res
